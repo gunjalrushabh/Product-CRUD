@@ -1,2 +1,2 @@
 # Product-CRUD
-SpringMVC Mysql
+SpringMVC Mysql ThymLeaf
